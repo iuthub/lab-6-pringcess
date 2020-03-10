@@ -1,7 +1,7 @@
 <?php
 
-	$pattern="";
-	$text="";
+	$pattern="/ fox /";
+	$text="The quick brown fox";
 	$replaceText="";
 	$replacedText="";
 
